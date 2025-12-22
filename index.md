@@ -24,7 +24,25 @@ Languages:
 
 ## CV
 
-CV...
+**Master in Economics (M.Sc.)** — LMU Munich  
+Oct 2021 – Dec 2023  
+Thesis: *Climate Change, Trade and Geopolitics: The Arctic*
+
+**Exchange Semester** — Université de Montréal  
+Sep 2022 – Dec 2022  
+PROSA Scholarship (LMUexchange)
+
+**Bachelor in Economics (B.Sc.)** — LMU Munich  
+Oct 2018 – Oct 2021  
+Thesis: *Algorithmic Collusion: Coordination and Regulation*
+
+**Translation and Interpreting (B.A.)** — Universidad de Málaga  
+Oct 2014 – Jul 2018  
+Focus: Simultaneous and conference interpreting
+
+**Erasmus+ Exchange** — Ruprecht-Karls-Universität Heidelberg  
+Oct 2016 – Aug 2017
+
 [Download CV (PDF)](assets/cv.pdf)
 
 ## Contact

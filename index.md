@@ -3,6 +3,7 @@
 I am a doctoral student at LMU Munich since October 2024.
 
 Languages:
+
 <img src="assets/img/spain.png" width="24" height="24">
 <img src="assets/img/germany.jpeg" width="24" height="24">
 <img src="assets/img/uk.png" width="24" height="24">

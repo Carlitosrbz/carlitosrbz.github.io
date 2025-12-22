@@ -6,6 +6,9 @@ Languages:
 
 <img src="assets/img/spain.png" width="24" height="24"> <img src="assets/img/germany.jpeg" width="24" height="24"> <img src="assets/img/uk.png" width="24" height="24"> <img src="assets/img/france.jpeg" width="24" height="24"> <img src="assets/img/italy.png" width="24" height="24">
 
+<img src="assets/img/spain.png" width="18"> <img src="assets/img/germany.jpeg" width="18"> <img src="assets/img/uk.png" width="18"> <img src="assets/img/france.jpeg" width="18"> <img src="assets/img/italy.png" width="18"> 
+
+
 ## Research Interests
 
 - Innovation in the semiconductor industries: clusters, agglomeration and spillovers.

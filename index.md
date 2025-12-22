@@ -39,7 +39,7 @@ Focus: Simultaneous and conference interpreting
 **Erasmus+ Exchange** — Ruprecht-Karls-Universität Heidelberg  
 Oct 2016 – Aug 2017
 
-[Download CV (PDF)](assets/cv.pdf)
+[Download CV (PDF)](assets/CV.pdf)
 
 ## Contact
 

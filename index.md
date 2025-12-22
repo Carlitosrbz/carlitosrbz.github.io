@@ -24,4 +24,4 @@ CV...
 
 Email: [carlos.romero@econ.lmu.de](mailto:carlos.romero@econ.lmu.de)  
 Office: Ludwigstraße 33, Room 356, 80799 München ([Map](https://www.lmu.de/raumfinder/index.html#/building/bw0110/map?room=011003356_))
-[LinkedIn](https://www.linkedin.com/in/carlos-romero-bl%C3%A1zquez/)
+Connect: [LinkedIn](https://www.linkedin.com/in/carlos-romero-bl%C3%A1zquez/)

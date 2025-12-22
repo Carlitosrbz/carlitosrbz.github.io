@@ -1,6 +1,6 @@
 ## About
 
-I am a doctoral student at LMU Munich since October 2024.
+I am a doctoral student in Economics at LMU Munich since October 2024. I am mainly interested in innovation, trade and geoeconomics.
 
 Languages: <img src="assets/img/spain.png" width="18"> <img src="assets/img/germany.jpeg" width="18"> <img src="assets/img/uk.png" width="18"> <img src="assets/img/france.jpeg" width="18"> <img src="assets/img/italy.png" width="18"> 
 

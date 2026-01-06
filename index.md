@@ -11,10 +11,10 @@ Languages: <img src="assets/img/spain.png" width="18"> <img src="assets/img/germ
 - Trade and competition effect on firm innovation
 - Geoeconomics
 
-## Working projects
+## Working Projects
 
 - "Innovation at the Top"
-- "The China 2.0 Competition and Firm Level Innovation in the EU" with Claudia Steinwender
+- "The China 2.0 Effect: Firm Level Innovation in the EU" with Claudia Steinwender
 - "Climate Change, Trade and Geopolitics: the Arctic" with Martina Magli
 
 ## Teaching

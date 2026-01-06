@@ -7,9 +7,15 @@ Languages: <img src="assets/img/spain.png" width="18"> <img src="assets/img/germ
 
 ## Research Interests
 
-- Innovation in the semiconductor industries: clusters, agglomeration and spillovers.
+- Innovation: clusters, agglomeration and spillovers
 - Trade and competition effect on firm innovation
-- Climate change, trade and geopolitics
+- Geoeconomics
+
+## Working projects
+
+- "Innovation at the Top"
+- "The China 2.0 Competition and Firm Level Innovation in the EU" with Claudia Steinwender
+- "Climate Change, Trade and Geopolitics: the Arctic" with Martina Magli
 
 ## Teaching
 

@@ -13,7 +13,7 @@ Languages: <img src="assets/img/spain.png" width="18"> <img src="assets/img/germ
 
 ## Working Projects
 
-- "Innovation at the Top"
+- "Innovation at the Top: the Semiconductor Industry"
 - "The China 2.0 Effect: Firm Level Innovation in the EU" with Claudia Steinwender
 - "Climate Change, Trade and Geopolitics: the Arctic" with Martina Magli
 
